@@ -1,7 +1,6 @@
 # Opis
 - Anomaly Detection in Time Series Energy Data.ipynb:
-
--   jupyter notebook-u koji sadrzi detaljne analize podataka, rezultata i ponasanje algoritama Isolation Forest i Local Outlier Factor nad ovim podacima
+  - jupyter notebook-u koji sadrzi detaljne analize podataka, rezultata i ponasanje algoritama Isolation Forest i Local Outlier Factor nad ovim podacima
 
 - 'Izvestaj'
   - 'Dokumentacija':
