@@ -5,7 +5,7 @@
 - 'Izvestaj'
   - 'Dokumentacija':
 
-      -opisuje korake analize zajedno sa rezulatima i svim zakljucima
+        -opisuje korake analize zajedno sa rezulatima i svim zakljucima
   - B2 Energy Data: Anomaly Detecion.ipptx:
 
-      -sadrzi najvaznije zakljucke izvedene iz projekta
+        -sadrzi najvaznije zakljucke izvedene iz projekta
