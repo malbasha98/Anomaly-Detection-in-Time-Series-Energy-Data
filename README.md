@@ -12,5 +12,5 @@
     
 # Koriscenje
 
-Ovo je istrazivacki projekat i njegova namena je da pokaze postupke pripreme i analize podataka za Anomaly Detection, ponasnje algoritama za Anomaly Detection nad tavkim podacima i analizu dobijenih rezultata.
+Ovo je istrazivacki projekat i njegova namena je da prikaze postupke pripreme i analize podataka za Anomaly Detection, ponasnje algoritama za Anomaly Detection nad tavkim podacima i analizu dobijenih rezultata.
 
