@@ -6,9 +6,7 @@
   - **Dokumentacija.pdf:**
 
     -opisuje korake analize zajedno sa rezulatima i svim zakljucima
-  - **B2 Energy Data: Anomaly Detecion.ipptx:**
-
-    -sadrzi najvaznije zakljucke izvedene iz projekta
+  
     
 # Koriscenje
 
