@@ -4,11 +4,10 @@
 
 - **Izvestaj:**
   - **Dokumentacija.pdf:**
-
-    -opisuje korake analize zajedno sa rezulatima i svim zakljucima
+   -opisuje korake analize zajedno sa rezulatima i svim zakljucima
   
     
-# Koriscenje
+# Opis
 
 Ovo je istrazivacki projekat i njegova namena je da prikaze postupke pripreme i analize podataka za Anomaly Detection, ponasnje algoritama za Anomaly Detection nad tavkim podacima i analizu dobijenih rezultata.
 
