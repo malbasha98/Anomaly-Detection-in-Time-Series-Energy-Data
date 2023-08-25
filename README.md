@@ -4,8 +4,7 @@
 
 - **Izvestaj:**
   - **Dokumentacija.pdf:**
-  
-   -opisuje korake analize zajedno sa rezulatima i svim zakljucima
+  -  -opisuje korake analize zajedno sa rezulatima i svim zakljucima
   
     
 # Opis
